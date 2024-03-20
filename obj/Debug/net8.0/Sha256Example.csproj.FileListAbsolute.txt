@@ -1,0 +1,14 @@
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/bin/Debug/net8.0/Sha256Example
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/bin/Debug/net8.0/Sha256Example.deps.json
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/bin/Debug/net8.0/Sha256Example.runtimeconfig.json
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/bin/Debug/net8.0/Sha256Example.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/bin/Debug/net8.0/Sha256Example.pdb
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/Sha256Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/Sha256Example.AssemblyInfoInputs.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/Sha256Example.AssemblyInfo.cs
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/Sha256Example.csproj.CoreCompileInputs.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/Sha256Example.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/refint/Sha256Example.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/Sha256Example.pdb
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/Sha256Example.genruntimeconfig.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/Sha256Example/obj/Debug/net8.0/ref/Sha256Example.dll
